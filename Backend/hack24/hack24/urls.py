@@ -13,14 +13,32 @@ Including another URLconf
     1. Import the include() function: from django.urls import include, path
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
+
+
 from django.contrib import admin
 from django.urls import path, include
+from django.http import HttpResponse
 from django.conf import settings
 from django.conf.urls.static import static
 
+# Simple root view
+def home(request):
+    return HttpResponse("Backend is running!")
+
 urlpatterns = [
+    # Root path
+    path('', home, name='home'),
+
+    # Admin panel
     path('admin/', admin.site.urls),
-    path('auth/', include('users.urls')),
-    path('issue/', include('issues.urls')),
-    path('alerts/', include('alerts.urls')),
-] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+
+    # App URLs
+    path('auth/', include('users.urls')),    # Your users/auth app
+    path('issue/', include('issues.urls')),  # Issues app
+    path('alerts/', include('alerts.urls')), # Alerts app
+]
+
+# Serve media files during development
+if settings.DEBUG:
+    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+
