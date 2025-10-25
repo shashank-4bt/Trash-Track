@@ -1,6 +1,6 @@
-# Trash Tracker
+# Trash Track
 
-Trash Tracker is a platform aimed at streamlining and enhancing civic engagement between citizens and their government. It empowers users to report civic issues, collaborate, and monitor their resolution process. With features like real-time mapping, issue tracking, and emergency alerts, Trash Tracker revolutionizes public services.
+Trash Track is a platform aimed at streamlining and enhancing civic engagement between citizens and their government. It empowers users to report civic issues, collaborate, and monitor their resolution process. With features like real-time mapping, issue tracking, and emergency alerts, Trash Track revolutionizes public services.
 
 ## How to Run
 
@@ -25,9 +25,9 @@ Trash Tracker is a platform aimed at streamlining and enhancing civic engagement
 
 ## Description
 
-In a world marked by communication gaps between citizens and government, Trash Tracker emerges as the solution to streamline and enhance civic engagement. Frustrated with potholes, garbage collection issues, or other civic concerns? Trash Tracker empowers users to report problems with images and precise locations. Our unique platform allows users to collaborate, upvote, and comment on reported issues, fostering a community-driven approach to problem-solving.
+In a world marked by communication gaps between citizens and government, Trash Track emerges as the solution to streamline and enhance civic engagement. Frustrated with potholes, garbage collection issues, or other civic concerns? Trash Track empowers users to report problems with images and precise locations. Our unique platform allows users to collaborate, upvote, and comment on reported issues, fostering a community-driven approach to problem-solving.
 
-By integrating the Google Maps API, Trash Tracker provides a real-time, visual map of open issues, promoting transparency. Government officials actively engage, updating the status of each problem and ensuring accountability. With a comprehensive issue tracking system, users can monitor the progress of their reported problems—from being open, under review, to resolved—complete with a timeline for enhanced visibility into the resolution process.
+By integrating the Google Maps API, Trash Track provides a real-time, visual map of open issues, promoting transparency. Government officials actively engage, updating the status of each problem and ensuring accountability. With a comprehensive issue tracking system, users can monitor the progress of their reported problems—from being open, under review, to resolved—complete with a timeline for enhanced visibility into the resolution process.
 
-In emergencies, Trash Tracker delivers instant alerts directly to users' phones, keeping citizens informed about road blockades, water, or electricity-related issues. Trash Tracker isn't just a platform; it's a game-changer, transforming the dynamics between citizens and their government. Join us in revolutionizing public services, where your voice matters, and Trash Tracker is the conduit for change.
+In emergencies, Trash Track delivers instant alerts directly to users' phones, keeping citizens informed about road blockades, water, or electricity-related issues. Trash Track isn't just a platform; it's a game-changer, transforming the dynamics between citizens and their government. Join us in revolutionizing public services, where your voice matters, and Trash Track is the conduit for change.
 
