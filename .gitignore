@@ -166,3 +166,4 @@ Frontend/.next/
 .env.local
 .env
 ```
+.vercel
