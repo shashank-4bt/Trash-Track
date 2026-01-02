@@ -22,6 +22,12 @@ Trash Track is a platform aimed at streamlining and enhancing civic engagement b
 
 #### Creating a Superuser
 - To create a superuser for accessing the Django admin interface, run: `python manage.py createsuperuser` and follow the prompts.
+##### Team Members
+-Kirt Dixit - https://www.linkedin.com/in/kirt-dixit-6573b6387/
+-Hritik Kumar Srivastava - https://www.linkedin.com/in/hritik-kumar-srivastava-b52b7720b/
+-Saumya Verma - https://www.linkedin.com/in/saumya-verma-184aa6394/
+-Shivangi Arya - https://www.linkedin.com/in/shivangi-arya-07k335887/
+-Shashank Kumar Singh - https://www.linkedin.com/in/shashank-singh-4bt-a8aa9930a/
 
 ## Description
 
